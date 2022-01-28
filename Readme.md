@@ -8,3 +8,5 @@
    3、or you can open view->tool windows->Library Manager to open Library Manager toolwindow and then input 'alm install GOkhttp3 -v 4.5.0' in Library Manager toolwindow to integrate the library into you project<br/>
 
 you can input 'alm/alm -help' to see more commands<br/>
+
+more detail to brose [Library Manager doc](https://gitee.com/pojul/library-manager-doc/blob/master/zh/catalogue.md)<br/>
