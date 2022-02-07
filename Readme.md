@@ -9,4 +9,4 @@
 
 you can input 'alm/alm -help' to see more commands<br/>
 
-more detail to brose [Library Manager doc](https://gitee.com/pojul/library-manager-doc/blob/master/zh/catalogue.md)<br/>
+more detail to brose [Library Manager doc](https://github.com/pojul/library-manager-doc/blob/master/zh/catalogue.md)<br/>
